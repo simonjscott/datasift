@@ -8,6 +8,7 @@ source code and eclipse .project files
 executable program: mbuf
 
 requires shared libraries libzmq, libboost_thread, libboost_system, libboost_program_options
+(supplied in lib directory of repository. extend LD_LIBRARY_PATH to include this directory whn running mbuf)
 
 compiled using g++ 4.8.2
 
