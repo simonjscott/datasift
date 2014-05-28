@@ -9,6 +9,8 @@ executable program: mbuf
 
 requires shared libraries libzmq, libboost_thread, libboost_system, libboost_program_options
 
+compiled using g++ 4.8.2
+
 tested usng the stream_generator program
 
 To run:
